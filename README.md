@@ -159,6 +159,10 @@ Create an account on [Interviewbit](https://www.interviewbit.com) and solve the 
 
 Watch videos.
 
+[Overview of SOLID](https://www.youtube.com/watch?v=TMuno5RZNeE)
+
+[SOLID principles](https://www.youtube.com/playlist?list=PL6n9fhu94yhXjG1w2blMXUzyDrZ_eyOme)
+
 	Practice Data Munging problem (http://codekata.com/kata/kata04-data-munging).
 
 	Create proper classes. Try to apply OOPs concepts and do it using minimum amount of code.
