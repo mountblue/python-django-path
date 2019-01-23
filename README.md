@@ -187,6 +187,12 @@ Go through Model View Controller design pattern. Implement it in Core Python usi
 
 ## Flask, Celery, ElasticSearch, Deployment
 
+	Implement your choice of project with Flask.
+
+	First write user personas and user stories.
+
+	Example:
+
 	Blogging Engine with Authentication in Flask
 
 	* As a reader I should be able to (henceforth ISBAT) see all blogs.
@@ -241,13 +247,20 @@ Go through Model View Controller design pattern. Implement it in Core Python usi
 
 ### Django REST Framework
 
-Introduction to [Django REST framework](http://www.django-rest-framework.org/)
+Introduction to [Django REST framework](http://www.django-rest-framework.org/). Complete the quickstart and tutorial.
 
-	Whatsapp with users and groups
-	- Use Django's auth app
-	- Use Django Admin Dashboard to add data
-	- Use Django REST Framework to expose a REST API
-	- Use sockets for realtime
+	Update Django Data Project with DRF
+
+	- Create apis for matches
+	- Use 4 separate branches and implement:
+	  -- method based views
+	  -- class based views
+	  -- mixins based views
+	  -- generics
+	- Create apis for deliveries
+	  -- implement hyperlinking with matches
+	  -- implement pagination
+	- Implement viewsets and routers
 
 
 ### Potential additions - Microservices, Messaging Queues, Load Balancers, Stress Testing
