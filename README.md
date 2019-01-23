@@ -252,7 +252,7 @@ Introduction to [Django REST framework](http://www.django-rest-framework.org/). 
 	Update Django Data Project with DRF
 
 	- Create apis for matches
-	- Use 4 separate branches and implement:
+	- Use 4 separate Git branches and implement:
 	  -- method based views
 	  -- class based views
 	  -- mixins based views
