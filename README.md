@@ -11,7 +11,7 @@ Basics:
 
 Python
 1. Python Programming Language
-2. OOPs and Solid
+2. OOP and Solid
 
 JavaScript
 1. Getting Started
