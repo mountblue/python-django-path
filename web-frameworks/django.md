@@ -2,14 +2,11 @@
 
 ## Django Tutorial
 
-This is an introductory tutorial to Django. If you already have experience with Django feel free to skim through this.
+The best reference is the [Official Documentation](https://docs.djangoproject.com/en/).
 
-**NOTES**
-- Use Django 2.x as in the tutorial. **NOT 3.x** which is the latest release.
+First do the Poll App from the official documentation. Then do the IPL project.
 
-The best reference is obviously the [Official Documentation](https://docs.djangoproject.com/en/2.2/).
-
-Video - [https://www.youtube.com/watch?v=F5mRW0jo-U4](https://www.youtube.com/watch?v=F5mRW0jo-U4)
+Reference Videos (old but covers the basics well) - [https://www.youtube.com/watch?v=F5mRW0jo-U4](https://www.youtube.com/watch?v=F5mRW0jo-U4)
 
 ## Django IPL Project
 
