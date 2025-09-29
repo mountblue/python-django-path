@@ -88,7 +88,7 @@ In consultation with your mentor write out the user stories for this project.
 #### Part 1: Data Loader, with Django custom command.
 Write a [custom django-admin command](https://docs.djangoproject.com/en/3.1/howto/custom-management-commands/) to load all the data from the CSV source file.
 
-** NOTE ** your Django project and app should already be created and models should be written.
+**NOTE** your Django project and app should already be created and models should be written.
 
 #### Part 2: Django Admin
 
